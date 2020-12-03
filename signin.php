@@ -14,16 +14,16 @@
     <nav class="navbar navbar-expand-sm bg-success navbar-dark">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.html">About</a>
+          <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="signin.html">Sign In</a>
+          <a class="nav-link" href="signin.php">Sign In</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="signup.html">Sign Up</a>
+          <a class="nav-link" href="signup.php">Sign Up</a>
         </li>
         
       </ul>

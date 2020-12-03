@@ -1,0 +1,28 @@
+.bg{
+    /* background-color: rgb(97, 70, 74); */
+    background-color: rgb(193, 212, 193);
+}
+
+.txtstyle{
+    font-size: 70px;
+    color: rgb(11, 43, 16);
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.text{
+    font-size: 70px;
+    color: rgb(11, 43, 16);
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.bgcolor{
+     background-color: rgb(193, 212, 193);
+ }
+
+ .txt{
+     color: white;
+     font-size: 30px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     background-color: rgb(88, 141, 123) ;
+     border-radius: 40px;
+ }
